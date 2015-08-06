@@ -22,8 +22,8 @@ __Disclaimer:__ _Oh My Zsh works best on Mac OS X and Linux._
 ### Basic Installation
 
 Oh My Zsh is installed by running one of the following commands in your terminal. You can install this via the command-line with either `curl` or `wget`.
-#### origin author version
-### via curl
+### origin author version
+#### via curl
 
 `sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
 
@@ -31,8 +31,8 @@ Oh My Zsh is installed by running one of the following commands in your terminal
 
 `sh -c "$(wget https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"`
 
-#### myversion
-### via curl
+### myversion
+#### via curl
 
 `sh -c "$(curl -fsSL https://raw.github.com/swt02026/oh-my-zsh/master/tools/install.sh)"`
 
