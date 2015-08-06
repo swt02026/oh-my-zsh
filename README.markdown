@@ -1,12 +1,12 @@
-============================================
-fork oh-my-zsh for personalize configuration
-============================================
+===========================
+fork oh-my-zsh for personal
+===========================
 
-# Author Repository and Tutorial
+## Author Repository and Tutorial
 
 [robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 
-# How to Install
+## How to Install
 
 #### via curl
 
@@ -16,7 +16,7 @@ fork oh-my-zsh for personalize configuration
 
 `sh -c "$(wget https://raw.github.com/swt02026/oh-my-zsh/master/tools/install.sh -O -)"`
 
-# Enabled Package
+## Enabled Package
 
 * docker
 * nvm
